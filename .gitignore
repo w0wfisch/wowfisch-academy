@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# Time Machine
+.BackupDB
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Python (für später)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node / other tools (für später)
+node_modules/
+
+# Output / build artifacts
+output/
+dist/
+build/
